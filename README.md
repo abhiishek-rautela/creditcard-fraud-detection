@@ -1,4 +1,4 @@
-# creditcard-fraud-detection
+# credit-card-fraud-detection
 This is a credit card fraud detection app using Python, Sckit-Learn and Machine Learning <br>
 
 Main challenges involved in credit card fraud detection are: <br>
